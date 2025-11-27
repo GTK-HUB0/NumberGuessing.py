@@ -1,4 +1,4 @@
-# Number Guessing Beast
+# Number Guessing Python Script
 
 Welcome to **Number Guessing Python Script**, the ultimate ultra-fast number predictor.
 
