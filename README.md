@@ -26,7 +26,9 @@ Step 3: Navigate to the folder
 Step 4: Run the script
 
 ```python main.py```
-**OR IF THIS DOESNT WORKS**
+
+**OR**
+
 ```python3 main.py```
 
 ## Commands During Game
