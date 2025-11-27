@@ -25,7 +25,9 @@ Step 3: Navigate to the folder
 
 Step 4: Run the script
 
-```python number_guesser.py```
+```python main.py```
+**OR IF THIS DOESNT WORKS**
+```python3 main.py```
 
 ## Commands During Game
 - `H` : Your number is higher than the guess
